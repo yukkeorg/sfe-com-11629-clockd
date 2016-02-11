@@ -1,0 +1,10 @@
+[unit]
+Description=Clock with using SFE-COM-11629 daemon
+
+[Service]
+ExecStart=/usr/local/bin/sfe-com-11629-clockd.py
+KillMode=process
+Restert=always
+
+[Install]
+WantedBy=multi-user.target
