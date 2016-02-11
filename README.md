@@ -1,6 +1,8 @@
 # sfe-com-11629-clockd
 Degital Clock with external 7-segment display
 
+<img src="https://raw.githubusercontent.com/wiki/yukkeorg/sfe-com-11629-clockd/image.jpg">
+
 ### Required Hardware
 - Raspberry Pi
 - SparkFun 7-Segment Serial Display
