@@ -20,3 +20,6 @@ cd sfe-com-11629-clockd
 sudo make install
 sudo sfe-com-11629-clockd.py -f
 ```
+
+### License
+Public Domain
